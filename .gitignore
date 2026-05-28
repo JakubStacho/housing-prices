@@ -1,4 +1,5 @@
-data/*
+input/*
+output/*
 .housing-venv/*
 
 activate-housing-venv
