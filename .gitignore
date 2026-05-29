@@ -1,9 +1,9 @@
 input/*
 output/*
-.housing-venv/*
+venv-housing/*
+.vscode/*
 
 activate-housing-venv
 
 *.csv
 *.gz
-*.txt
