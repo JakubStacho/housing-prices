@@ -7,3 +7,4 @@ activate-housing-venv
 
 *.csv
 *.gz
+*.npy
